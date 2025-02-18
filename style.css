@@ -1,0 +1,22 @@
+.container{
+    position:relative;
+    margin-left:50px;
+    height:100px;
+    width:100px;
+    background-color:red;
+}
+.inner{
+    /* position: absolute; */
+    top:10px;
+    height:50px;
+    width:50px;
+    background-color:blue;
+}
+
+/* .container2{
+    top:10px;
+    position:absolute;
+    height:100px;
+    width:100px;
+    background-color:green;
+} */
